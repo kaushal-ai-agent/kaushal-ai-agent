@@ -3,7 +3,7 @@
 ## Kaushal Joshi **` GenAI Engineer | Data Science and AI Enthusiast`**
 
 - 👨‍💻 I’m currently working at **CitiusTech** as a **GenAI Engineer**
-- Lost the earlier account: [KJ-999]((https://github.com/KJ-999/)
+- Lost the earlier account: [KJ-999](https://github.com/KJ-999/)
 - 🤖 Building **AI Agents** for HealthTech, including:  
   - Multi-Agent Systems for document processing  
   - Knowledge Graph construction and agent integration  
