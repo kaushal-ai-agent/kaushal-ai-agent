@@ -2,14 +2,15 @@
 
 ## Kaushal Joshi **` GenAI Engineer | Data Science and AI Enthusiast`**
 
-- 👨‍💻 I’m currently working at **CitiusTech** as a **GenAI Engineer**  
+- 👨‍💻 I’m currently working at **CitiusTech** as a **GenAI Engineer**
+- Lost the earlier account: [KJ-999]((https://github.com/KJ-999/)
 - 🤖 Building **AI Agents** for HealthTech, including:  
   - Multi-Agent Systems for document processing  
   - Knowledge Graph construction and agent integration  
   - AI-powered workflows with **LangGraph** and **Google ADK**  
 - ☁️ Cloud Expertise: **AWS, Azure, GCP**  
 - 📊 Strong foundation in **Data Science & Statistics** with ongoing **MSc Statistics and Data Science** at [NMIMS University](https://mathematics.nmims.edu/academics/programs/msc/statistics/)  
-- 💬 Ask me about **Python, SQL, Power BI, AI Agents, Knowledge Graphs**  
+- 💬 Ask me about **Python, SQL, Power BI, Knowledge Graphs, Agentic AI, GenAI, AI in Healthcare**  
 - 🥅 2025 Goals: **Advance GenAI solutions, contribute to OSS, publish research, and build innovative AI products**  
 
 <br>
